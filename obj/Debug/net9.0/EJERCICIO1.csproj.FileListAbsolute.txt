@@ -12,3 +12,4 @@ C:\Users\Axel\Desktop\EjercicioBiblioteca\EJERCICIO1\obj\Debug\net9.0\refint\EJE
 C:\Users\Axel\Desktop\EjercicioBiblioteca\EJERCICIO1\obj\Debug\net9.0\EJERCICIO1.pdb
 C:\Users\Axel\Desktop\EjercicioBiblioteca\EJERCICIO1\obj\Debug\net9.0\EJERCICIO1.genruntimeconfig.cache
 C:\Users\Axel\Desktop\EjercicioBiblioteca\EJERCICIO1\obj\Debug\net9.0\ref\EJERCICIO1.dll
+C:\Users\Axel\Desktop\EjercicioBiblioteca\EJERCICIO1\obj\Debug\net9.0\EJERCICIO1.sourcelink.json
